@@ -10,3 +10,4 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{coolshadow1}/count.svg" alt="coolshadow1 :: Visitor's Count" /></p>
+<p align="center"><img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" /></p>
