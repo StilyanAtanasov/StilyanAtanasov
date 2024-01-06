@@ -9,5 +9,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolshadow1&langs_count=10&theme=tokyonight&layout=compact" alt="coolshadow1 :: Top Langs" /></p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-
 <p align="center"><img src="https://profile-counter.glitch.me/{coolshadow1}/count.svg" alt="coolshadow1 :: Visitor's Count" /></p>
