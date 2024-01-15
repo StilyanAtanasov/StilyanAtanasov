@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I am Stilyan Atanasov! 👋</h1>
 <h3 align="center">GitHub Stats:</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=coolshadow1&theme=black-ice&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></p>
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=coolshadow1&theme=dark&date_format=j%20M%5B%20Y%5D&ring=35CE00&fire=FF6F24&currStreakLabel=35CE00&sideLabels=FF6F24&sideNums=35CE00&currStreakNum=E5E5E5" alt="GitHub Streak" /></a> -->
+<!-- <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=coolshadow1&theme=black-ice&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p> -->
+
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=coolshadow1&theme=dark&date_format=j%20M%5B%20Y%5D&ring=35CE00&fire=FF6F24&currStreakLabel=35CE00&sideLabels=FF6F24&sideNums=35CE00&currStreakNum=E5E5E5" alt="GitHub Streak" /></a></p>
 
 <h3 align="center">Profile stats:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=coolshadow1&show_icons=true&theme=synthwave" alt="coolshadow1 :: Profile Stats" /></p>
