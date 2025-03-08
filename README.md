@@ -12,11 +12,6 @@
 <h3 align="center">Top languages:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stilyanatanasov&langs_count=10&theme=tokyonight&layout=compact" alt="stilyanatanasov :: Top Langs" /></p>
 
-<!-- Profile Views Count -->
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{stilyanatanasov}/count.svg" alt="stilyanatanasov :: Visitor's Count" /></p>
-<p align="center"><img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" /></p>
-
 <!-- My Throphies -->
 <h3 align="center">GitHub Trophies:</h3>
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=stilyanatanasov&theme=matrix" alt="GitHub Trophies" /></p>
